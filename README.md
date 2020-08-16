@@ -1,4 +1,4 @@
-# Fedole  
+# Inoric  
 A Feature rich mobile application aimed to simplify college functioning
 even in the times of a global pandemic.
 
@@ -11,7 +11,7 @@ such as students visiting the classroom lectures, laboratory exercises, examinat
 nearby shops especially for students in a residential institution where on any usual day a large number
 of crowd is visible due to which it makes the spread of such diseases to increase rapidly and making
 the trace of the contact very difficult because of such large gatherings altogether with an uncertain
-chaos. Thus, we present a user-friendly feature riched mobile application called Fedole which aims at
+chaos. Thus, we present a user-friendly feature riched mobile application called Inoric which aims at
 providing solutions for carrying out all the functions in a usual institute with increased chances of
 maintaining specific norms of social distancing and hygiene.  
   
@@ -26,7 +26,8 @@ receiving education at ease.
     to build a visually rich framework where classroom lectures as well as laboratory exercises can be
     recorded, shared as well as viewed both in live and recorded formats which will thus help the students
     to view those in almost real life view even when used remotely, thus gain practical knowledge yet not
-    visiting class when sought extreme necessary.
+    visiting class when sought extreme necessary. Along  with  this we have a doubt clarification platform where students 
+    can post their queries on a forum and can also request to schedule dedicated one-to-one chat room sessions.
      
     Module 2: Smart exams: ​ We also plan to integrate a testing module which will be made using
     advanced security features which uses modern ML methods to prevent malpractices and yet aims to
@@ -73,7 +74,7 @@ receiving education at ease.
      already in the location before to receive the delivery on his behalf and then just forward the item. In
      doing this we can also employ a reward system for people transferring the product and a chain system
      which might help when direct contact or transfer cannot be made when it can be made in partitions
-     where one person giving the commodity to one and the chain continues according to the feasibilityuntil the thing reaches the person who
+     where one person giving the commodity to one and the chain continues according to the feasibility until the thing reaches the person who
      initially requested.
 
 
